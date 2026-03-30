@@ -49,7 +49,7 @@ No additional installations required for any script.
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/HARDIK-WEB-OSS/oss-audit.git
+git clone https://github.com/Sanskar-9264/oss-audit.git
 cd oss-audit
 ```
 
